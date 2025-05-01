@@ -13,7 +13,7 @@ How do race and parent income percentile influence future income rank among diff
 
 ## 📁 Data
 
-- **Source**: [Opportunity Insights – Public Use Census Data](https://opportunityinsights.org/data/)
+- **Source**: [Census Public Use Data](https://www.census.gov/programs-surveys/ces/data/public-use-data/race-and-economic-opportunity-data-tables.html)
 - **Sample**: 64 U.S. aggregated demographic regions
 - **Variables Used**:  
   - `par_pctile` (parent income percentile)  

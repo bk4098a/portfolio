@@ -44,7 +44,7 @@ It highlights my technical skills using R, Shiny, and RMarkdown through multiple
 ## 👤 Author
 
 **Byeolha Kim**  
-M.A. Candidate in International Economics  
+M.A. Candidate in International Economic Relations: Quantitative Methods 
 American University  
 📧 bk4098a@american.edu  
 🔗 [GitHub Profile](https://github.com/bk4098a)
